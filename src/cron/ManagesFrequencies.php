@@ -351,6 +351,16 @@ trait ManagesFrequencies
     }
 
     /**
+     * 每15分钟执行.
+     *
+     * @return $this
+     */
+    public function everyFifteenMinutes()
+    {
+        return $this->spliceIntoPosition(1, '*/10');
+    }
+
+    /**
      * 每30分钟执行.
      *
      * @return $this
