@@ -357,7 +357,7 @@ trait ManagesFrequencies
      */
     public function everyFifteenMinutes()
     {
-        return $this->spliceIntoPosition(1, '*/10');
+        return $this->spliceIntoPosition(1, '*/15');
     }
 
     /**
