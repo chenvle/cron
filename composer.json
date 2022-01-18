@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "yunwuxin\\cron\\": "src/cron"
+            "chenvle\\cron\\": "src/cron"
         },
         "files": [
             "src/helper.php"
