@@ -1,5 +1,5 @@
 {
-    "name": "chenvle/think-cron",
+    "name": "chenvle/cron",
     "description": "计划任务",
     "type": "think-extend",
     "license": "Apache-2.0",
