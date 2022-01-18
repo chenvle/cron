@@ -2,7 +2,7 @@
 
 ## 安装方法
 ```
-composer require chenvle/think-cron
+composer require chenvle/cron
 ```
 
 ## 使用方法
