@@ -23,6 +23,7 @@
             "chenvle\\cron\\": "src/cron"
         },
         "files": [
+            "src/helper.php"
         ]
     },
     "extra": {
